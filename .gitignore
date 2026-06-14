@@ -145,7 +145,7 @@ cursor_settings.txt
 kısa_yollar.txt
 env_lib.txt
 github.txt
-environment.yml
+# environment.yml
 
 
 .continue/config.yaml
